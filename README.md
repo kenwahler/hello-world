@@ -1,2 +1,4 @@
 # hello-world
-beginning
+Hello humans. 
+Ken here. 
+Transitioning to AWS.
